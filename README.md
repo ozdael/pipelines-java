@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/jaapdalemans/test%20pipelines/_apis/build/status/ozdael.pipelines-java?branchName=master)](https://dev.azure.com/jaapdalemans/test%20pipelines/_build/latest?definitionId=25&branchName=master)
 
 # Contributing
 
